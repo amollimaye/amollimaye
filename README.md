@@ -9,6 +9,8 @@ I am also a quick learner which enables me to learn and start working on any new
 
 - Most of my work is not open source, My linkedIn Profile ➡️ https://www.linkedin.com/in/amolrlimaye/ 
 
+- My latest article on Medium.com
+
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amol.limaye/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amol.limaye/0" alt="Recent Article 0"> 
 
